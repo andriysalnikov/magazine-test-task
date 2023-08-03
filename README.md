@@ -31,7 +31,7 @@ Create a collection in Postman or write queries using the *curl* tool so that it
 ### How to run this application
 - Clone or download repository
 - Import *Postman* collection from this URL:
-  > https://api.postman.com/collections/3959105-1c78d2b2-947d-4fa7-91cb-71f9b883adab?access_key=PMAT-01GXQGRHTRR8CCFBSZERQJJPQ4
+  > https://api.postman.com/collections/3959105-1c78d2b2-947d-4fa7-91cb-71f9b883adab?access_key=PMAT-01H6YGDB7ASR21M1D83PX889X1
   
   Do  `Menu -> File -> Import...`
 - Run `Application.main`. The database will be automatically raised into memory 
